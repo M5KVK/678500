@@ -23,5 +23,4 @@ include tag.
   courtesy notices
 - **[Changelog](changelog.md)** — notable changes to the node over time
 
-Questions about this node can be directed to {{ site.callsign }}. *(Add your
-preferred contact method here — email, QRZ, etc.)*
+Questions about this node can be directed to {{ site.callsign }}. Contact details are on qrz.com*
