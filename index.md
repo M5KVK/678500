@@ -1,9 +1,7 @@
 ---
 layout: home
-title: AllStarLink Node [NODE NUMBER]
+title: AllStarLink Node 678500
 ---
-
-## [Optional: a one-line courtesy notice, e.g. "Amateur Radio traffic relayed through node [NODE NUMBER] may be recorded."]
 
 This page is maintained by {{ site.callsign }} as the off-node reference for
 AllStarLink node {{ site.node_number }}. It exists so information about the node —
