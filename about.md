@@ -2,6 +2,7 @@
 layout: page
 title: About This Node
 permalink: /about.html
+home: https://m5kvk.org
 ---
 
 **Node:** {{ site.node_number }}
